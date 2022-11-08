@@ -5,6 +5,6 @@ Machine Learning Assignments SPPU (TE IT)
 Kaggel: https://www.kaggle.com/code/ranjeetkumbhar/te-it-ml-assignment-1-sppu<br>
 <br>
 2) Assignment - 2<br>
-Kaggel:<br>
+Kaggel: https://www.kaggle.com/code/ranjeetkumbhar/te-it-ml-assignment-2-sppu <br>
 3) Assignment - 3<br>
 Kaggel:<br>
