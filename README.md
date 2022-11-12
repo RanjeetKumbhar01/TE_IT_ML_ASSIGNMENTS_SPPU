@@ -107,3 +107,20 @@ d. Train Apriori algorithm on the dataset<br>
 e. Visualize the list of rules<br>
 F. Generated rules depend on the values of hyper parameters. By increasing the<br>
 minimum confidence value and find the rules accordingly<br>
+
+# 7) Assignment - 7<br>
+Kaggel: https://www.kaggle.com/code/ranjeetkumbhar/ml-assignment-7-te-it-sppu<br>
+
+Assignment on Multilayer Neural Network Model
+Download the dataset of National Institute of Diabetes and Digestive and Kidney Diseases from<br>
+below link : Data Set: https://raw.githubusercontent.com/jbrownlee/Datasets/master/pima-indiansdiabetes.data.csv<br>
+The dataset is has total 9 attributes where the last attribute is “Class attribute” having values 0<br>
+and 1. (1=”Positive for Diabetes”, 0=”Negative”)<br>
+a. Load the dataset in the program. Define the ANN Model with Keras. Define at least two<br>
+hidden layers. Specify the ReLU function as activation function for the hidden layer and<br>
+Sigmoid for the output layer.<br>
+b. Compile the model with necessary parameters. Set the number of epochs and batch size<br>
+and fit the model.<br>
+c. Evaluate the performance of the model for different values of epochs and batch sizes.<br>
+d. Evaluate model performance using different activation functions Visualize the model using<br>
+ANN Visualizer<br>
