@@ -1,4 +1,4 @@
-# TE_IT_ML_ASSIGNMENTS_SPPU
+# TE_IT_ML_ASSIGNMENTS_SPPU_2019_PATTERN
 Machine Learning Assignments SPPU (TE IT) 
 
 # 1) Assignment - 1<br>
