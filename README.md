@@ -3,7 +3,7 @@
 ## Third Year Information Technology (2019 Course)
 ## 314448 : Laboratory Practice-I (Machine Learning)
 Machine Learning Assignments
-# 1) Assignment - 1<br>
+## 1) Assignment - 1<br>
 Kaggel: https://www.kaggle.com/code/ranjeetkumbhar/ml-assignment-1-te-it-sppu <br>
 
 Data preparation: Download heart dataset from following link. https://www.kaggle.com/zhaoyingzhu/heartcsv <br>
@@ -21,7 +21,7 @@ Through the diagnosis test I predicted 100 report as COVID positive, but only 45
    III. Recall<br>
    IV. F-1 score<br>
 
-# 2) Assignment - 2<br>
+## 2) Assignment - 2<br>
 Kaggel: https://www.kaggle.com/code/ranjeetkumbhar/ml-assignment-2-te-it-sppu <br>
 
 Assignment on Regression technique<br>
@@ -32,7 +32,7 @@ a. Apply Linear Regression using suitable library function and predict the Month
 b. Assessthe performance of regression models using MSE, MAE and R-Square metrics<br>
 c. Visualize simple regression model.<br>
 
-# 3) Assignment - 3<br>
+## 3) Assignment - 3<br>
 Kaggel: https://www.kaggle.com/code/ranjeetkumbhar/ml-assignment-3-te-it-sppu <br>
 
 Assignment on Classification technique<br>
@@ -53,7 +53,7 @@ necessary.<br>
 C. Apply Machine Learning Algorithm<br>
 D. Evaluate Model.<br>
 
-# 4) Assignment - 4<br>
+## 4) Assignment - 4<br>
 Kaggel: https://www.kaggle.com/code/ranjeetkumbhar/ml-assignment-4-te-it-sppu <br>
 
 Assignment on Improving Performance of Classifier Models<br>
@@ -72,7 +72,7 @@ c. Apply at least two Machine Learning Algorithms and Evaluate Models<br>
 d. Apply Cross-Validation and Evaluate Models and compare performance.<br>
 e. Apply Hyper parameter tuning and evaluate models and compare performance.<br>
 
-# 5) Assignment - 5<br>
+## 5) Assignment - 5<br>
 Kaggel: https://www.kaggle.com/code/ranjeetkumbhar/ml-assignment-5-te-it-sppu <br>
 
 Assignment on Clustering Techniques<br>
@@ -90,7 +90,7 @@ c. Apply Machine Learning Algorithm<br>
 d. Evaluate Model.<br>
 e. Apply Cross-Validation and Evaluate Model<br>
 
-# 6) Assignment - 6<br>
+## 6) Assignment - 6<br>
 Kaggel: https://www.kaggle.com/code/ranjeetkumbhar/ml-assignment-6-te-it-sppu <br>
 
 Assignment on Association Rule Learning<br>
@@ -110,7 +110,7 @@ e. Visualize the list of rules<br>
 F. Generated rules depend on the values of hyper parameters. By increasing the<br>
 minimum confidence value and find the rules accordingly<br>
 
-# 7) Assignment - 7<br>
+## 7) Assignment - 7<br>
 Kaggel: https://www.kaggle.com/code/ranjeetkumbhar/ml-assignment-7-te-it-sppu<br>
 
 Assignment on Multilayer Neural Network Model
