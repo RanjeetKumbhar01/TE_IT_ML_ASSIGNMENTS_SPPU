@@ -1,7 +1,5 @@
 # TE_IT_ML_ASSIGNMENTS_SPPU_2019_PATTERN
-## Savitribai Phule Pune University, Pune
-## Third Year Information Technology (2019 Course)
-## 314448 : Laboratory Practice-I (Machine Learning)
+## Savitribai Phule Pune University, Pune<br>Third Year Information Technology (2019 Course)<br>314448 : Laboratory Practice-I (Machine Learning)
 Machine Learning Assignments
 ## 1) Assignment - 1<br>
 Kaggel: https://www.kaggle.com/code/ranjeetkumbhar/ml-assignment-1-te-it-sppu <br>
