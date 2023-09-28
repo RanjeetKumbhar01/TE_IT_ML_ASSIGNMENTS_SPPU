@@ -1,8 +1,8 @@
-[//]: # ([![License]&#40;https://img.shields.io/github/license/wervlad/customer-churn-prediction.svg?color=blue&#41;]&#40;https://github.com/wervlad/customer-churn-prediction/blob/main/LICENSE&#41;)
-# TE IT ML ASSIGNMENTS SPPU-2019 PATTERN
-This repository contains a collection of machine learning assignments for the Third Year Information Technology (2019 Course) at Savitribai Phule Pune University, Pune.
-## Assignment 1
-**Kaggle:** [ML Assignment 1 TE IT SPPU](https://www.kaggle.com/code/ranjeetkumbhar/ml-assignment-1-te-it-sppu)
+# TE_IT_ML_ASSIGNMENTS_SPPU_2019_PATTERN
+## Savitribai Phule Pune University, Pune<br>Third Year Information Technology (2019 Course)<br>314448 : Laboratory Practice-I (Machine Learning)
+Machine Learning Assignments
+## 1) Assignment - 1<br>
+Kaggel: https://www.kaggle.com/code/ranjeetkumbhar/ml-assignment-1-te-it-sppu <br>
 
 Data preparation: Download heart dataset from following link. https://www.kaggle.com/zhaoyingzhu/heartcsv <br>
 Perform following operation on given dataset.<br>
@@ -19,8 +19,8 @@ Through the diagnosis test I predicted 100 report as COVID positive, but only 45
    III. Recall<br>
    IV. F-1 score<br>
 
-## Assignment 2
-**Kaggle:** [ML Assignment 2 TE IT SPPU](https://www.kaggle.com/code/ranjeetkumbhar/ml-assignment-2-te-it-sppu)
+## 2) Assignment - 2<br>
+Kaggel: https://www.kaggle.com/code/ranjeetkumbhar/ml-assignment-2-te-it-sppu <br>
 
 Assignment on Regression technique<br>
 Download temperature data from below link. https://www.kaggle.com/venky73/temperaturesof-india?select=temperatures.csv<br>
@@ -30,8 +30,8 @@ a. Apply Linear Regression using suitable library function and predict the Month
 b. Assessthe performance of regression models using MSE, MAE and R-Square metrics<br>
 c. Visualize simple regression model.<br>
 
-## Assignment 3
-**Kaggle:** [ML Assignment 3 TE IT SPPU](https://www.kaggle.com/code/ranjeetkumbhar/ml-assignment-3-te-it-sppu)
+## 3) Assignment - 3<br>
+Kaggel: https://www.kaggle.com/code/ranjeetkumbhar/ml-assignment-3-te-it-sppu <br>
 
 Assignment on Classification technique<br>
 Every year many students give the GRE exam to get admission in foreign Universities. The data<br>
@@ -51,9 +51,8 @@ necessary.<br>
 C. Apply Machine Learning Algorithm<br>
 D. Evaluate Model.<br>
 
-## Assignment 4
-**Kaggle:** [ML Assignment 4 TE IT SPPU](https://www.kaggle.com/code/ranjeetkumbhar/ml-assignment-4-te-it-sppu)
-
+## 4) Assignment - 4<br>
+Kaggel: https://www.kaggle.com/code/ranjeetkumbhar/ml-assignment-4-te-it-sppu <br>
 
 Assignment on Improving Performance of Classifier Models<br>
 A SMS unsolicited mail (every now and then known as cell smartphone junk mail) is any junk message<br>
@@ -71,8 +70,8 @@ c. Apply at least two Machine Learning Algorithms and Evaluate Models<br>
 d. Apply Cross-Validation and Evaluate Models and compare performance.<br>
 e. Apply Hyper parameter tuning and evaluate models and compare performance.<br>
 
-## Assignment 5
-**Kaggle:** [ML Assignment 5 TE IT SPPU](https://www.kaggle.com/code/ranjeetkumbhar/ml-assignment-5-te-it-sppu)
+## 5) Assignment - 5<br>
+Kaggel: https://www.kaggle.com/code/ranjeetkumbhar/ml-assignment-5-te-it-sppu <br>
 
 Assignment on Clustering Techniques<br>
 Download the following customer dataset from below link:<br>
@@ -89,8 +88,8 @@ c. Apply Machine Learning Algorithm<br>
 d. Evaluate Model.<br>
 e. Apply Cross-Validation and Evaluate Model<br>
 
-## Assignment 6
-**Kaggle:** [ML Assignment 6 TE IT SPPU](https://www.kaggle.com/code/ranjeetkumbhar/ml-assignment-6-te-it-sppu)
+## 6) Assignment - 6<br>
+Kaggel: https://www.kaggle.com/code/ranjeetkumbhar/ml-assignment-6-te-it-sppu <br>
 
 Assignment on Association Rule Learning<br>
 Download Market Basket Optimization dataset from below link.<br>
@@ -109,13 +108,13 @@ e. Visualize the list of rules<br>
 F. Generated rules depend on the values of hyper parameters. By increasing the<br>
 minimum confidence value and find the rules accordingly<br>
 
-## Assignment 7
-**Kaggle:** [ML Assignment 7 TE IT SPPU](https://www.kaggle.com/code/ranjeetkumbhar/ml-assignment-7-te-it-sppu)
+## 7) Assignment - 7<br>
+Kaggel: https://www.kaggle.com/code/ranjeetkumbhar/ml-assignment-7-te-it-sppu<br>
 
 Assignment on Multilayer Neural Network Model
 Download the dataset of National Institute of Diabetes and Digestive and Kidney Diseases from<br>
 below link : Data Set: https://raw.githubusercontent.com/jbrownlee/Datasets/master/pima-indiansdiabetes.data.csv<br>
-The dataset has total 9 attributes where the last attribute is “Class attribute” having values 0<br>
+The dataset is has total 9 attributes where the last attribute is “Class attribute” having values 0<br>
 and 1. (1=”Positive for Diabetes”, 0=”Negative”)<br>
 a. Load the dataset in the program. Define the ANN Model with Keras. Define at least two<br>
 hidden layers. Specify the ReLU function as activation function for the hidden layer and<br>
