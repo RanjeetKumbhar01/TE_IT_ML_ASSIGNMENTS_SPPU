@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # TE IT ML ASSIGNMENTS SPPU-2019 PATTERN
 
 Savitribai Phule Pune University, Pune |
@@ -9,13 +8,6 @@ This repository contains a collection of machine learning assignments for the Th
 ## Assignment 1 📊 - Exploratory Data Analysis and Metrics
 
 **Kaggle:** [ML Assignment 1 TE IT SPPU](https://www.kaggle.com/code/ranjeetkumbhar/ml-assignment-1-te-it-sppu)
-=======
-# TE_IT_ML_ASSIGNMENTS_SPPU_2019_PATTERN
-## Savitribai Phule Pune University, Pune<br>Third Year Information Technology (2019 Course)<br>314448 : Laboratory Practice-I (Machine Learning)
-Machine Learning Assignments
-## 1) Assignment - 1<br>
-Kaggel: https://www.kaggle.com/code/ranjeetkumbhar/ml-assignment-1-te-it-sppu <br>
->>>>>>> 330164f987d659df128ac8f96ca9b18a2caa9b1b
 
 **Dataset:** [Heart Dataset](https://www.kaggle.com/zhaoyingzhu/heartcsv)
 
@@ -37,12 +29,7 @@ Through the diagnosis test, I predicted 100 reports as COVID positive, but only 
 
 ## Assignment 2 🌡️ - Regression Analysis
 
-<<<<<<< HEAD
 **Kaggle:** [ML Assignment 2 TE IT SPPU](https://www.kaggle.com/code/ranjeetkumbhar/ml-assignment-2-te-it-sppu)
-=======
-## 2) Assignment - 2<br>
-Kaggel: https://www.kaggle.com/code/ranjeetkumbhar/ml-assignment-2-te-it-sppu <br>
->>>>>>> 330164f987d659df128ac8f96ca9b18a2caa9b1b
 
 **Dataset:** [Temperature Data](https://www.kaggle.com/venky73/temperaturesof-india?select=temperatures.csv)
 
@@ -54,12 +41,7 @@ Assignment on Regression technique 📈
 
 ## Assignment 3 📚 - Decision Trees and Classification
 
-<<<<<<< HEAD
 **Kaggle:** [ML Assignment 3 TE IT SPPU](https://www.kaggle.com/code/ranjeetkumbhar/ml-assignment-3-te-it-sppu)
-=======
-## 3) Assignment - 3<br>
-Kaggel: https://www.kaggle.com/code/ranjeetkumbhar/ml-assignment-3-te-it-sppu <br>
->>>>>>> 330164f987d659df128ac8f96ca9b18a2caa9b1b
 
 **Dataset:** [Graduate Admissions](https://www.kaggle.com/mohansacharya/graduate-admissions)
 
@@ -77,14 +59,9 @@ The counselor of the firm is supposed to check whether the student will get admi
 
 ## Assignment 4 📩 - SMS Spam Detection
 
-<<<<<<< HEAD
 **Kaggle:** [ML Assignment 4 TE IT SPPU](https://www.kaggle.com/code/ranjeetkumbhar/ml-assignment-4-te-it-sppu)
 
 **Dataset:** [SMS Spam Collection](http://archive.ics.uci.edu/ml/datasets/sms+spam+collection)
-=======
-## 4) Assignment - 4<br>
-Kaggel: https://www.kaggle.com/code/ranjeetkumbhar/ml-assignment-4-te-it-sppu <br>
->>>>>>> 330164f987d659df128ac8f96ca9b18a2caa9b1b
 
 Assignment on Improving Performance of Classifier Models 🚀
 
@@ -102,12 +79,7 @@ This dataset is composed of just one text file, where each line has the correct 
 
 ## Assignment 5 🛍️ - Customer Segmentation
 
-<<<<<<< HEAD
 **Kaggle:** [ML Assignment 5 TE IT SPPU](https://www.kaggle.com/code/ranjeetkumbhar/ml-assignment-5-te-it-sppu)
-=======
-## 5) Assignment - 5<br>
-Kaggel: https://www.kaggle.com/code/ranjeetkumbhar/ml-assignment-5-te-it-sppu <br>
->>>>>>> 330164f987d659df128ac8f96ca9b18a2caa9b1b
 
 **Dataset:** [Mall Customers](https://www.kaggle.com/shwetabh123/mall-customers)
 
@@ -124,12 +96,7 @@ This dataset gives the data of Income and money spent by the customers visiting 
 
 ## Assignment 6 📊 - Market Basket Analysis
 
-<<<<<<< HEAD
 **Kaggle:** [ML Assignment 6 TE IT SPPU](https://www.kaggle.com/code/ranjeetkumbhar/ml-assignment-6-te-it-sppu)
-=======
-## 6) Assignment - 6<br>
-Kaggel: https://www.kaggle.com/code/ranjeetkumbhar/ml-assignment-6-te-it-sppu <br>
->>>>>>> 330164f987d659df128ac8f96ca9b18a2caa9b1b
 
 **Dataset:** [Market Basket Optimization](https://www.kaggle.com/hemanthkumar05/market-basket-optimization)
 
@@ -147,7 +114,6 @@ There is no header in the dataset, and the first row contains the first transact
 
 ## Assignment 7 🧠 - Multilayer Neural Network
 
-<<<<<<< HEAD
 **Kaggle:** [ML Assignment 7 TE IT SPPU](https://www.kaggle.com/code/ranjeetkumbhar/ml-assignment-7-te-it-sppu)
 
 **Dataset:** [Pima Indians Diabetes Data](https://raw.githubusercontent.com/jbrownlee/Datasets/master/pima-indiansdiabetes.data.csv)
@@ -181,21 +147,3 @@ If you have any questions or suggestions, please feel free to contact:
 Feel free to navigate to each assignment's directory for detailed instructions, code, and any additional resources. If you have any questions or need assistance, don't hesitate to reach out. Good luck with your assignments!
 
 <p align="center">Copyright © 2023 Ranjeet Kumbhar</p>
-=======
-## 7) Assignment - 7<br>
-Kaggel: https://www.kaggle.com/code/ranjeetkumbhar/ml-assignment-7-te-it-sppu<br>
-
-Assignment on Multilayer Neural Network Model
-Download the dataset of National Institute of Diabetes and Digestive and Kidney Diseases from<br>
-below link : Data Set: https://raw.githubusercontent.com/jbrownlee/Datasets/master/pima-indiansdiabetes.data.csv<br>
-The dataset is has total 9 attributes where the last attribute is “Class attribute” having values 0<br>
-and 1. (1=”Positive for Diabetes”, 0=”Negative”)<br>
-a. Load the dataset in the program. Define the ANN Model with Keras. Define at least two<br>
-hidden layers. Specify the ReLU function as activation function for the hidden layer and<br>
-Sigmoid for the output layer.<br>
-b. Compile the model with necessary parameters. Set the number of epochs and batch size<br>
-and fit the model.<br>
-c. Evaluate the performance of the model for different values of epochs and batch sizes.<br>
-d. Evaluate model performance using different activation functions Visualize the model using<br>
-ANN Visualizer<br>
->>>>>>> 330164f987d659df128ac8f96ca9b18a2caa9b1b
